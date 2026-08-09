@@ -1,0 +1,18 @@
+# .NET / C#
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+appsettings.json
+
+# React / Node.js
+node_modules/
+dist/
+build/
+.env
+
+# Sistema e Editores
+.DS_Store
+Thumbs.db
+.vscode/
